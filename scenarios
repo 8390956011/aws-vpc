@@ -1,0 +1,9 @@
+# Create VPC
+# create subnet
+# Create Route Table
+# associate Route table to subent
+# Create and attached Internet gateway to VPC
+# add entry of Internet gateway to route table
+# Create nat gateway
+# add entry of nat gateway to route table
+
